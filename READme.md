@@ -1,4 +1,4 @@
-- WARNING: This tool is for EDUCATIONAL USE ONLY
+- WARNING: This tool is for EDUCATIONAL USE ONLY 🚨
 - Never target systems without explicit written permission
 - All simulations are configured for LOCALHOST (127.0.0.1)
 - Unauthorized use may violate:
